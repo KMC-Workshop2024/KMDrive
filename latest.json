@@ -1,0 +1,117 @@
+{
+ "date": "2026-11-20",
+ "history": [
+  {
+   "notes": "notes/2.1.21.md",
+   "notes_sha256": "454ef80be1bbe72d288e5583c032079c73aa82c0c5fe498e9d47b4842c3dd7b6",
+   "version": "2.1.21"
+  },
+  {
+   "notes": "notes/2.1.20.md",
+   "notes_sha256": "ffc6f8c269dc07ab973974381cab74f5429e4c57b750a090ef8b7a1d7cf5258e",
+   "version": "2.1.20"
+  },
+  {
+   "notes": "notes/2.1.19.md",
+   "notes_sha256": "fa89f525082515fc29a4304197c1f35e30287e19c433f0b40a66d85fbbe11457",
+   "version": "2.1.19"
+  },
+  {
+   "notes": "notes/2.1.18.md",
+   "notes_sha256": "d9ceff334b755a7d27e1431cb182640bf4502b783d3921d7d99065b60c38526b",
+   "version": "2.1.18"
+  },
+  {
+   "notes": "notes/1.2.18.md",
+   "notes_sha256": "0a85be7e7fbf8a9bb362bdc91e33008837c947d5de708f8d0b08a5163767a6ae",
+   "version": "1.2.18"
+  },
+  {
+   "notes": "notes/1.2.17.md",
+   "notes_sha256": "c4225e563b1efe737d6bba7def5a06e00bfa5de329e030c141c53f972a2cbf3e",
+   "version": "1.2.17"
+  },
+  {
+   "notes": "notes/1.2.16.md",
+   "notes_sha256": "a2728ff7851ad749194f41eb92b5ed0eda168aefa250533b7f62ae1b9fc69554",
+   "version": "1.2.16"
+  },
+  {
+   "notes": "notes/1.2.15.md",
+   "notes_sha256": "3a3e52e5df23b5497a7e8a1293bc4d9f19e9172b16e0dd20204e47dcd8340205",
+   "version": "1.2.15"
+  },
+  {
+   "notes": "notes/1.2.14.md",
+   "notes_sha256": "899444f8716c06b512bee037f669d3ac6cc6ccee76c50ff5649a64e60bb48b60",
+   "version": "1.2.14"
+  },
+  {
+   "notes": "notes/1.2.13.md",
+   "notes_sha256": "fbf89a44d86216b17d255a13aa654be33c19b60ef70a01111910982d2c6b3e19",
+   "version": "1.2.13"
+  },
+  {
+   "notes": "notes/1.2.12.md",
+   "notes_sha256": "43f0e6dce01b545fda82d62064c89701073c27507863e949442979b755c7c145",
+   "version": "1.2.12"
+  },
+  {
+   "notes": "notes/1.2.11.md",
+   "notes_sha256": "e67441f4d2f71e4e2cdbd564c04c1bfc75d4d36b7061b6ee4ac5998226405f2a",
+   "version": "1.2.11"
+  },
+  {
+   "notes": "notes/1.2.10.md",
+   "notes_sha256": "b2cf718468b92f6e58ce4ba9765499a03b284e66167c7783e094832a7cec9240",
+   "version": "1.2.10"
+  },
+  {
+   "notes": "notes/1.2.9.md",
+   "notes_sha256": "39b36dbdc5630ebb7449add5c79219804e6fcd6b8315b1eef9427e423396c629",
+   "version": "1.2.9"
+  },
+  {
+   "notes": "notes/1.2.8.md",
+   "notes_sha256": "1acc0495b3e7d862b2a9eb04678f9988d8a11906773b322e36da84f524856507",
+   "version": "1.2.8"
+  },
+  {
+   "notes": "notes/1.2.7.md",
+   "notes_sha256": "a287c9c7b9ea72995bc0195bd8a9945849a3a2919f687b6bd4af92e0a685982b",
+   "version": "1.2.7"
+  },
+  {
+   "notes": "notes/1.2.6.md",
+   "notes_sha256": "202a50de44c8387d89569acc38f05dd4d141e3d9b4df72a57f96491439bc1f7c",
+   "version": "1.2.6"
+  },
+  {
+   "notes": "notes/1.2.4.md",
+   "notes_sha256": "dce1b0334f1cad59571d15c58d0f23c8b3c4775c1bb3867b24247da2766d05ae",
+   "version": "1.2.4"
+  },
+  {
+   "notes": "notes/1.2.3.md",
+   "notes_sha256": "e6f2ab4211655c0c06953be0a3f7a97a5cc8200708105f07b33a8b89f24fe57c",
+   "version": "1.2.3"
+  },
+  {
+   "notes": "notes/1.2.2.md",
+   "notes_sha256": "283ea16cbf12d284dcc0816ca35d925af61bc74ffc911d5970c15a89c58a68af",
+   "version": "1.2.2"
+  },
+  {
+   "notes": "notes/1.2.1.md",
+   "notes_sha256": "db147558494efc134650534bb60ea68f4662702846d1c63bab5dcb54a5645184",
+   "version": "1.2.1"
+  }
+ ],
+ "notes": "notes/2.1.21.md",
+ "notes_sha256": "454ef80be1bbe72d288e5583c032079c73aa82c0c5fe498e9d47b4842c3dd7b6",
+ "sha256": "a667bb81d181fa0c073c53117f64ba9e7ad656281cec85cc6cc60973f4d058fd",
+ "signature": "00640118cccc40c36d27824ae8902f70b030d2c6007b08b56cbb9a83eb41dae66619e509133f1021eda4ca38aee021b51b113f4cf540080a0b693c557866084d",
+ "size": 14025216,
+ "url": "https://github.com/KMC-Workshop2024/KMDrive/releases/download/v2.1.21/KMDrive-2.1.21.exe",
+ "version": "2.1.21"
+}

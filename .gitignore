@@ -1,0 +1,4 @@
+# only release files and notes belong here
+*.exe
+*.pem
+*.key
