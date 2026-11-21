@@ -2,6 +2,11 @@
  "date": "2026-11-21",
  "history": [
   {
+   "notes": "notes/2.1.28.md",
+   "notes_sha256": "0df3fff07543a5447d0d7baed68829507fbe58584470af1c61ca8425badd2242",
+   "version": "2.1.28"
+  },
+  {
    "notes": "notes/2.1.27.md",
    "notes_sha256": "8cb2c2fc8cc7c93857d478a06b6739c560ab6ca8813c56dd930d9eb91cae03db",
    "version": "2.1.27"
@@ -137,11 +142,11 @@
    "version": "1.2.1"
   }
  ],
- "notes": "notes/2.1.27.md",
- "notes_sha256": "8cb2c2fc8cc7c93857d478a06b6739c560ab6ca8813c56dd930d9eb91cae03db",
- "sha256": "a6aa6ea0a440deb403d37661f6813cdb34e7206900423fb35bab444f9810db1f",
- "signature": "568eb868f7acde3c474e215f1fdbce0d9cd91c59943de3b88c61c0eb8b1cfd8d34276d57894423abc683dcac7c13b371996c47eb1ac935933b42a3f3167165b4",
- "size": 14051328,
- "url": "https://github.com/KMC-Workshop2024/KMDrive/releases/download/v2.1.27/KMDrive-2.1.27.exe",
- "version": "2.1.27"
+ "notes": "notes/2.1.28.md",
+ "notes_sha256": "0df3fff07543a5447d0d7baed68829507fbe58584470af1c61ca8425badd2242",
+ "sha256": "5374a79267cf7633d86ec23cf813cbe741a64ec64a8ba45ff84b11b7fe09731e",
+ "signature": "8d562a728e68c7d615b86fafc73fc4048b495b3c370f154291dafd7ee47ec9c474317f489cfe561abadf6d2dae8e93bbcf47ed174ac2ebd0597b97468e08c94d",
+ "size": 14051840,
+ "url": "https://github.com/KMC-Workshop2024/KMDrive/releases/download/v2.1.28/KMDrive-2.1.28.exe",
+ "version": "2.1.28"
 }
